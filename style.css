@@ -1,0 +1,19 @@
+.heading {
+    font-size: 23px;
+    width: 50%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(71, 0, 71);
+}
+
+.heading_div {
+    float: none;
+    background: rgb(210, 159, 255);
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(71, 0, 71);
+    color: purple;
+}
+
+.heading_div2 {
+    font-size: 18px;
+}
